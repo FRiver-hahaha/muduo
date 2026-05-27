@@ -1,0 +1,25 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/friver/gitclone/muduo/examples/sudoku/pipeline.cc" "examples/sudoku/CMakeFiles/sudoku_client_pipeline.dir/pipeline.cc.o" "gcc" "examples/sudoku/CMakeFiles/sudoku_client_pipeline.dir/pipeline.cc.o.d"
+  "/home/friver/gitclone/muduo/examples/sudoku/sudoku.cc" "examples/sudoku/CMakeFiles/sudoku_client_pipeline.dir/sudoku.cc.o" "gcc" "examples/sudoku/CMakeFiles/sudoku_client_pipeline.dir/sudoku.cc.o.d"
+  "" "bin/sudoku_client_pipeline" "gcc" "examples/sudoku/CMakeFiles/sudoku_client_pipeline.dir/link.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")
